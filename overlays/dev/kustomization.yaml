@@ -3,4 +3,4 @@ resources:
 
 replicas:
   - name: demo-app2
-    count: 2
+    count: 5
